@@ -1,0 +1,15 @@
+body {
+    background: rgb(200,41,165);
+background: linear-gradient(90deg, rgba(200,41,165,1) 15%, rgba(176,37,158,1) 29%, rgba(157,33,152,1) 40%, rgba(137,29,146,1) 52%, rgba(118,25,140,1) 63%);
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+}
+
+#calcBody {
+    height: 90vh;
+    width: 60vh;
+    background-color: white;
+    border-radius: 10px;
+}

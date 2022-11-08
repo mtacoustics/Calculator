@@ -9,7 +9,9 @@ My goals for this project:
 - Would like to finish this project in a week but not setting any hard deadlines.
 - Styling: Not going overboard but would like it to look good. Not super advanced but above basic.
 - Testing of flexbox vs grid. I'm going to introduce myself to grid this project.
+- Commit often! Update my README more often as well.
 
 (I will be updating todos as I go and will comment them out as I acheive them but will not delete.)
 ToDo's:
-1. Link CSS and JS files to HTML
+<!-- 1. Link CSS and JS files to HTML -->
+2. Planning period
