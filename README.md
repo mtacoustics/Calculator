@@ -15,3 +15,10 @@ My goals for this project:
 ToDo's:
 <!-- 1. Link CSS and JS files to HTML -->
 2. Planning period
+
+
+
+
+
+Attributes:
+<a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Tempo_doloe - Flaticon</a>
