@@ -14,7 +14,13 @@ My goals for this project:
 (I will be updating todos as I go and will comment them out as I acheive them but will not delete.)
 ToDo's:
 <!-- 1. Link CSS and JS files to HTML -->
-2. Planning period
+<!-- 2. Basic formatting of HTML and CSS -->
+<!-- 3. seperate class and id's so if one changes I dont break my code -->
+4. Write psuedo-code for JS
+5. Assign ID's for JS
+6. Write JS logic for calculator function.
+7. Format for mobile devices.
+
 
 
 
