@@ -4,8 +4,9 @@ background: linear-gradient(90deg, rgba(200,41,165,1) 15%, rgba(176,37,158,1) 29
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top: 10px;
+margin-top: 25px;
 }
+
 
 /* * {
     border: red 1px solid;
@@ -15,30 +16,24 @@ margin-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 93vh;
-    width: 60vh;
-    background-color: white;
+    height: 80vh;
+    width: 50vh;
+    background-color: rgba(255,255,255, .5);
     border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, .75);
 }
+
 
 #screenContainer {
     margin-top: 10px;
     width: 55vh;
     height: 25vh;
 }
-#spacer {
-    background-color: rgba(230, 230, 230, .90);;
-    height: 2.5px;
-    width: 45vh;
-}
 
-#topBtnContainer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 55vh;
-    height: 10vh;
-    margin: 10px;
+#spacer {
+    background-color: rgba(230, 230, 230, .70);;
+    height: 2px;
+    width: 45vh;
 }
 
 #left {
@@ -57,7 +52,7 @@ button {
     font-size: 2rem;
     border: 1px solid white;
     outline:  none;
-    background-color: rgba(230, 230, 230, .50);
+    background-color: rgba(230, 230, 230, .30);
     width: 75px;
     height: 75px;
     border-radius: 50px;
@@ -66,7 +61,7 @@ button:hover {
     background-color: rgba(230, 230, 230, .90);
 }
 
-#bottomBtnContainer {
+#btnContainer {
     min-height: 30vh;
     width: 55vh;
     justify-content: center;
@@ -81,23 +76,24 @@ button:hover {
     width: 175px;
 }
 
-#operand {
+.operand {
     color: #2FA622;
 }
 
-#equals {
-    background-color: rgba(47, 166, 34, .85);
+.equals {
+    background-color: rgba(47, 166, 34, .65);
     color: white;
 }
 
-#equals:hover {
+.equals:hover {
     background-color: rgba(47, 166, 34, 1);
 }
 
-#clear {
+.clear {
     color: #E43523;
 }
 
-#delete {
+.delete {
     font-size: 1.5rem;
+    color: rgba(47, 166, 34, .4);
 }
