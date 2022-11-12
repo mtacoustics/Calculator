@@ -23,10 +23,10 @@ Psuedocode: (will write this out more as I go)
 
 (I will be updating todos as I go and will comment them out as I acheive them but will not delete.)
 ToDo's:
-1. <x> Link CSS and JS files to HTML 
-2. <x> Basic formatting of HTML and CSS
-3. <x> seperate class and id's so if one changes I dont break my code
-4. <> Write psuedo-code for JS
-5. <> Assign ID's for JS
-6. <> Write JS logic for calculator function.
-7. <>Format for mobile devices.
+1. x> Link CSS and JS files to HTML 
+2. x> Basic formatting of HTML and CSS
+3. x> seperate class and id's so if one changes I dont break my code
+4. o> Write psuedo-code for JS
+5. o> Assign ID's for JS
+6. o> Write JS logic for calculator function.
+7. o>Format for mobile devices.
