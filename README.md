@@ -20,11 +20,3 @@ ToDo's:
 5. Assign ID's for JS
 6. Write JS logic for calculator function.
 7. Format for mobile devices.
-
-
-
-
-
-
-Attributes:
-<a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Tempo_doloe - Flaticon</a>
