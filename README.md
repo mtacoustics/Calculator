@@ -30,3 +30,6 @@ ToDo's:
 5. o> Assign ID's for JS
 6. o> Write JS logic for calculator function.
 7. o>Format for mobile devices.
+
+Thoughts:
+    Nov 16: still trying to figure out how I want to write this javascript. Im struggling to figure out how to store the button inputs. If it were just one no problem but considering math equations get pretty large, Im trying to navigate this.

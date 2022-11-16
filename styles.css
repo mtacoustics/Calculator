@@ -99,6 +99,7 @@ button:hover {
 
 .equals {
     background-color: rgba(47, 166, 34, .65);
+    background-color: green;
     color: white;
 }
 
