@@ -41,6 +41,7 @@ function add() {
     stringStorage = ""
     currentInput.innerHTML = ""
     operand = "add"
+    noDecimal = 0
     if (lastTotal !== 0) {
         stringStorageTwo = lastTotal
         add()
@@ -50,6 +51,7 @@ function subtract() {
     stringStorageTwo = stringStorage
     stringStorage = ""
     operand = "minus"
+    noDecimal = 0
     if (lastTotal !== 0) {
         stringStorageTwo = lastTotal
         subtract()
@@ -59,6 +61,7 @@ function multiply() {
     stringStorageTwo = stringStorage
     stringStorage = ""
     operand = "multiply"
+    noDecimal = 0
     if (lastTotal !== 0) {
         stringStorageTwo = lastTotal
         multiply()
@@ -68,6 +71,7 @@ function divide() {
     stringStorageTwo = stringStorage
     stringStorage = ""
     operand = "divide"
+    noDecimal = 0
     if (lastTotal !== 0) {
         stringStorageTwo = lastTotal
         divide()
