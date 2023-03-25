@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <script src="app.js" defer></script>
-    <title>Document</title>
+    <title>Calculator</title>
 </head>
 <body>
     <div id="calcBody">
@@ -18,24 +18,24 @@
       <div id="spacer"></div>
 
       <div id="btnContainer">
-        <button id="btn" class="span-two clear" >C</button>
-        <button id="btn" class="delete">⌫</button>
-        <button id="btn" class="operand">÷</button>
-        <button id="btn">7</button>
-        <button id="btn">8</button>
-        <button id="btn">9</button>
-        <button id="btn" class="operand">x</button>
-        <button id="btn">4</button>
-        <button id="btn">5</button>
-        <button id="btn">6</button>
-        <button id="btn" class="operand">-</button>
-        <button id="btn">1</button>
-        <button id="btn">2</button>
-        <button id="btn">3</button>
-        <button id="btn" class="operand">+</button>
-        <button id="btn">.</button>
-        <button id="btn">0</button>
-        <button class="span-two equals" id="">=</button>
+        <button id="btn" class="span-two clear" onclick="clearAll()">C</button>
+        <button id="btn" class="delete" onclick="backSpace()">⌫</button>
+        <button id="btn" class="operand" onclick="divide()">÷</button>
+        <button id="btn" onclick="add7()">7</button>
+        <button id="btn" onclick="add8()">8</button>
+        <button id="btn" onclick="add9()">9</button>
+        <button id="btn" class="operand" onclick="multiply()">x</button>
+        <button id="btn" onclick="add4()">4</button>
+        <button id="btn" onclick="add5()">5</button>
+        <button id="btn" onclick="add6()">6</button>
+        <button id="btn" class="operand" onclick="subtract()">-</button>
+        <button id="btn" onclick="add1()">1</button>
+        <button id="btn" onclick="add2()">2</button>
+        <button id="btn" onclick="add3()">3</button>
+        <button id="btn" class="operand" onclick="add()">+</button>
+        <button id="btn" onclick="decimalPoint()">.</button>
+        <button id="btn" onclick="add0()">0</button>
+        <button class="span-two equals" id="" onclick="equals()">=</button>
       </div>
     </div>
     <div id="footer">
