@@ -40,12 +40,12 @@ body {
 
 #previousInput {
     padding-top: 20px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: rgba(35,35, 35, .6);
 }
 
 #currentInput {
-    font-size: 4rem;
+    font-size: 2.5rem;
 }
 
 #spacer {
